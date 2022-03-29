@@ -1,0 +1,6 @@
+axios  拦截器
+封装mock  配置不同api
+config.js跨域
+登录界面验证
+防抖封装插件 Myplugin.js
+路由守卫
